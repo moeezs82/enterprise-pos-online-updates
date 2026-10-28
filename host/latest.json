@@ -1,0 +1,13 @@
+{
+    "mandatory":  false,
+    "release_notes":  [
+                          "Release v1.2.4"
+                      ],
+    "version":  "1.2.4",
+    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.4/Enterprise-POS-Online-Host-Setup-1.2.4.exe",
+    "sha256":  "E15D94F3BEF350F77F649491F3E5AE3381F39B862B31241F23C9BC99CBAA48CE",
+    "channel":  "stable",
+    "product":  "enterprise-pos-online",
+    "minimum_supported_version":  "1.2.4",
+    "package_type":  "host"
+}
