@@ -1,11 +1,15 @@
 {
     "mandatory":  false,
     "release_notes":  [
-                          "Release v1.2.4"
+                          "New Customer Add Karne Ka Pop-up",
+        "Customer ID Ka System",
+        "New Customer Pop-up Mein Required Fields",
+        "Order Reference Number",
+        "Sale Screen Ke Buttons Aur Unka Function"
                       ],
-    "version":  "1.2.4",
-    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.4/Enterprise-POS-Online-Host-Setup-1.2.4.exe",
-    "sha256":  "E15D94F3BEF350F77F649491F3E5AE3381F39B862B31241F23C9BC99CBAA48CE",
+    "version":  "1.2.5",
+    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.5/Enterprise-POS-Online-Host-Setup-1.2.5.exe",
+    "sha256":  "70F05BF2521D88B7F5D7F0856F2E62951FFE8C452F9B9E89F61316BA7E346AD0",
     "channel":  "stable",
     "product":  "enterprise-pos-online",
     "minimum_supported_version":  "1.2.4",
