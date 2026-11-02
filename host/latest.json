@@ -1,14 +1,11 @@
 {
     "mandatory":  false,
     "release_notes":  [
-                          "full refund done",
-        "refund status shown",
-        "icons added in buttons",
-        "searchable field added in area"
+                          "bulk sale print"
                       ],
-    "version":  "1.2.7",
-    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.7/Enterprise-POS-Online-Host-Setup-1.2.7.exe",
-    "sha256":  "72B6E5E5F911BA561E8C12A02AC7EF31E6AE624189BD16B316E92FA5AD0D3F37",
+    "version":  "1.2.8",
+    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.8/Enterprise-POS-Online-Host-Setup-1.2.8.exe",
+    "sha256":  "FC0F73246C56396A0B335E4B532CC8CD9D98F5E67E66DB1650E8ECCCE4FBDB03",
     "channel":  "stable",
     "product":  "enterprise-pos-online",
     "minimum_supported_version":  "1.2.4",
