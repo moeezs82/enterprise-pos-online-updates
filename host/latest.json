@@ -1,11 +1,12 @@
 {
     "mandatory":  false,
     "release_notes":  [
-                          "bulk sale print"
+                          "Trax Implemented",
+        "whatsapp auto open implemented"
                       ],
-    "version":  "1.2.8",
-    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.8/Enterprise-POS-Online-Host-Setup-1.2.8.exe",
-    "sha256":  "FC0F73246C56396A0B335E4B532CC8CD9D98F5E67E66DB1650E8ECCCE4FBDB03",
+    "version":  "1.2.9",
+    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.9/Enterprise-POS-Online-Host-Setup-1.2.9.exe",
+    "sha256":  "68ACEBAB183634666237080F6D5850CE2631494502DAF2EF588987FEAC928941",
     "channel":  "stable",
     "product":  "enterprise-pos-online",
     "minimum_supported_version":  "1.2.4",
