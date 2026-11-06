@@ -6,7 +6,7 @@
                       ],
     "version":  "1.2.11",
     "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.11/Enterprise-POS-Online-Host-Setup-1.2.11.exe",
-    "sha256":  "",
+    "sha256":  "ABD6D44B33FA991615F1711CEFCCA834C4CD28FA79306F3035556A8F0098B80A",
     "channel":  "stable",
     "product":  "enterprise-pos-online",
     "minimum_supported_version":  "1.2.4",
