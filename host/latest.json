@@ -1,13 +1,12 @@
 {
     "mandatory":  false,
     "release_notes":  [
-                          "TCS Implemented",
-        "group image imeplemented",
-        "picking list checbox"
+                          "product variation creation and edit set",
+        "keyboard navogation added"
                       ],
-    "version":  "1.2.10",
-    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.10/Enterprise-POS-Online-Host-Setup-1.2.10.exe",
-    "sha256":  "F67F84A897F0948A4CE929F16AE5DC7D802143830AC70BDFC3C671A65D506940",
+    "version":  "1.2.11",
+    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.11/Enterprise-POS-Online-Host-Setup-1.2.11.exe",
+    "sha256":  "",
     "channel":  "stable",
     "product":  "enterprise-pos-online",
     "minimum_supported_version":  "1.2.4",
