@@ -1,12 +1,11 @@
 {
     "mandatory":  false,
     "release_notes":  [
-                          "product variation creation and edit set",
-        "keyboard navogation added"
+                          "print urdu set"
                       ],
-    "version":  "1.2.14",
-    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.14/Enterprise-POS-Online-Host-Setup-1.2.14.exe",
-    "sha256":  "45DF4D5AE78A82B749A0ACE29730E6D8636BAE6CFB8F33EF547E5E173C8C2748",
+    "version":  "1.2.15",
+    "download_url":  "https://github.com/moeezs82/enterprise-pos-online-updates/releases/download/v1.2.15/Enterprise-POS-Online-Host-Setup-1.2.15.exe",
+    "sha256":  "499DE422DF2FCB327C8FAB74DD3C6F6B13F4FCBEE39B95E0CDC73268A8263223",
     "channel":  "stable",
     "product":  "enterprise-pos-online",
     "minimum_supported_version":  "1.2.4",
